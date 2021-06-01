@@ -1,0 +1,4 @@
+1) char* extractURL(char buffer[]);- Function that returns the URL given buffer(the request from the client)
+2) format_log_entry which was given
+3) char* request(char buffer[]);-Function that returns the GET request from the client to be sent to the server
+4) The rest of the coding was done in main or using the functins from csapp.c
